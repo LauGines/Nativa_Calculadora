@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Nativa_Calculadora</string>
+    <string name="bienvenido">Welcome to my APP calculator</string>
+    <string name="img_calculadora" />
+    <string name="mi_calculadora">Mi Calculadora</string>
+    <string name="bienvenidos_a_mi_appp">Welcome to my APP</string>
+    <string name="introduzca_el_primer_numero">Write the first number</string>
+    <string name="introduzca_el_segundo_numero">Write the  second number</string>
+    <string name="mensaje_info">You must write two numbers</string>
+    <string name="resultado">The result of the operation is %d</string>
+    <string name="mensaje_nocero">Un número no se puede dividir por cero</string>
+
+    <string name="sumar">ADD</string>
+    <string name="restar">SUBTRACT</string>
+    <string name="mult">MULT</string>
+    <string name="dividir">DIVIDIR</string>
+
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bienvenido">Bienvenidos a mi APP Calculadora</string>
+    <string name="img_calculadora" />
+    <string name="mi_calculadora">Mi Calculadora</string>
+    <string name="bienvenidos_a_mi_appp">Bienvenidos a mi APP</string>
+    <string name="introduzca_el_primer_numero">Introduzca el primer número:</string>
+    <string name="introduzca_el_segundo_numero">Introduzca el segundo número:</string>
+    <string name="mensaje_info">Debes de introducir dos números</string>
+    <string name="resultado">El resultado de la operación es: %d</string>
+    <string name="mensaje_nocero">Un número no se puede dividir por cero</string>
+
+    <string name="sumar">SUMAR</string>
+    <string name="restar">RESTAR</string>
+    <string name="mult">MULT</string>
+    <string name="dividir">DIVIDIR</string>
+
+</resources>
